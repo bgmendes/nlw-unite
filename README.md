@@ -5,7 +5,7 @@
 
 Esse é um projeto Web de uma tecnologia de Check-In.
 
-##🚀 Tecnologia
+## 🚀 Tecnologia
 
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
